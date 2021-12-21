@@ -1,4 +1,8 @@
 aaaaa
 bbbbb
+<<<<<<< HEAD
 taratata
 turlututu chapeau pointu
+=======
+JE SUIS EGALEMENT ROBIN!!
+>>>>>>> main
